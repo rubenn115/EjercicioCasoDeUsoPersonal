@@ -15,6 +15,7 @@ namespace EjercicioCasoDeUsoPersonal.controladores
         /// <summary>
         /// Método de entrada de la aplicación
         /// rbr - 031023
+        /// kasdnvj
         /// </summary>
         /// <param name="args"></param>
         public static void Main(string[] args)
